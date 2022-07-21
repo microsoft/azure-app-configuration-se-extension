@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Microsoft Azure Storage Explorer is a standalone app that makes it easy to work with Azure Storage data on Windows, macOS and Linux. You need to install Storage Explorer 1.25.0 or later to be able to use this extension. To download and install the latest version of Storage Explorer, see [download Microsoft Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/).
+Microsoft Azure Storage Explorer is a standalone app that makes it easy to work with Azure Storage data on Windows, macOS and Linux. You need to install Storage Explorer 1.25.0 or later to be able to use this extension. To download and install the latest version of Storage Explorer, see [download Microsoft Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/).
 
 ## Download and install the extension
 
