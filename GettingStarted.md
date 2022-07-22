@@ -18,7 +18,7 @@ The extension requires the **App Configuration Data Owner** or **App Configurati
 
 Use the Connect dialog to sign-in to your Azure account.
 
-(todo) screenshots of sign-in flow
+![Sign-in Dialog](./images/SignInCombined.png)
 
 ## Access Azure App Configuration resources
 
