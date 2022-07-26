@@ -2,7 +2,7 @@
 
 ## The Repository
 
-This repository is where we host the releases and documentations for the Azure App Configuration extension for Microsoft Azure Storage Explorer. The extension can be installed within Storage Explorer to provide additional features for managing Azure App Configuration resources under your Azure subscriptions.
+This repository contains the releases and documentation for the Azure App Configuration extension for Microsoft Azure Storage Explorer. The extension can be installed within Storage Explorer to provide additional features for managing Azure App Configuration resources under your Azure subscriptions.
 
 ![Extension overview](./images/ExtensionOverview.PNG)
 

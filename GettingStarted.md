@@ -26,4 +26,4 @@ Once signed-in, you can expand the subscription nodes to access your Azure App C
 
 ![Extension tree explorer](./images/ExtensionTreeExplorer.PNG)
 
- The extension provides the basic features to manage your key-values in your stores. If you would like to see additional features, please open a feature request using [Issues](link_to_issues_with_feature_request_template).
+ The extension provides the basic features to manage your key-values in your stores. If you would like to see additional features, you may open a [feature request](https://github.com/microsoft/azure-app-configuration-se-extension/issues).
