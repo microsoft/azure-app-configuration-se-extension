@@ -4,7 +4,7 @@ The Azure App Configuration Extension for Microsoft Azure Storage Explorer makes
 
 ## Prerequisites
 
-You need to install Storage Explorer 1.25.0 or later to use this extension. To download and install the latest version of Storage Explorer, see [download Microsoft Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/).
+To use this extension, [download](https://azure.microsoft.com/features/storage-explorer/) and install Storage Explorer 1.25.0 or later.
 
 The extension also requires the **App Configuration Data Owner** or **App Configuration Data Reader** role on your user account to grant permissions for accessing the resources. You can configure the role assignments of your Azure App Configuration resources from [Azure Portal](https://portal.azure.com).
 
