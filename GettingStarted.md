@@ -10,7 +10,7 @@ The extension also requires the **App Configuration Data Owner** or **App Config
 
 ## Download and install the extension
 
-- Download the Azure App Configuration extension for Storage Explorer from [here](https://127.0.0.1)
+- Download the Azure App Configuration extension for Storage Explorer from [here](https://github.com/microsoft/azure-app-configuration-se-extension/releases)
 - On Windows or macOS, you can launch the extension bundle (.seix) to install. It will automatically open Storage Explorer with the extension enabled. On Linux, you can use the "File" → "Open Extension" item in the app menu and select the extension bundle to install.
 - Once the extension is installed, it will show up in the extensions panel in Storage Explorer.
 
