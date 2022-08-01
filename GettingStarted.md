@@ -1,10 +1,12 @@
 # Getting started
 
+The Azure App Configuration Extension for Microsoft Azure Storage Explorer makes it easy to work with your Azure App Configuration resources in Storage Explorer on Windows, macOS, and Linux.
+
 ## Prerequisites
 
-Microsoft Azure Storage Explorer is a standalone app that makes it easy to work with Azure Storage data on Windows, macOS and Linux. You need to install Storage Explorer 1.25.0 or later to be able to use this extension. To download and install the latest version of Storage Explorer, see [download Microsoft Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/).
+To use this extension, [download](https://azure.microsoft.com/features/storage-explorer/) and install Storage Explorer 1.25.0 or later.
 
-The extension requires the **App Configuration Data Owner** or **App Configuration Data Reader** role on your user account to grant permissions for accessing the resources. You can configure the role assignments of your Azure App Configuration resources from [Azure Portal](https://portal.azure.com).
+The extension also requires the **App Configuration Data Owner** or **App Configuration Data Reader** role on your user account to grant permissions for accessing the resources. You can configure the role assignments of your Azure App Configuration resources from [Azure Portal](https://portal.azure.com).
 
 ## Download and install the extension
 
@@ -26,4 +28,4 @@ Once signed-in, you can expand the subscription nodes to access your Azure App C
 
 ![Extension tree explorer](./images/ExtensionTreeExplorer.PNG)
 
- The extension provides the basic features to manage your key-values in your stores. If you would like to see additional features, you may open a [feature request](https://github.com/microsoft/azure-app-configuration-se-extension/issues).
+The extension provides the basic features to manage your key-values in your stores. If you would like to see additional features, you may open a [feature request](https://github.com/microsoft/azure-app-configuration-se-extension/issues).
