@@ -1,5 +1,11 @@
 # Release History
 
+## 0.2.0
+
+- Filtering key-values by key and label https://github.com/microsoft/azure-app-configuration-se-extension/issues/7 
+- View and edit tags of key-values https://github.com/microsoft/azure-app-configuration-se-extension/issues/6
+- Misc UI improvements
+
 ## 0.1.0
 
 - Initial release with the following features
